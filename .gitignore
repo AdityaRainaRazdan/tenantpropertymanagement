@@ -92,7 +92,4 @@ publish/
 *.bak
 *.swp
 *.json
-projectTaskManage.Blazor.Server/appsettings.json
-/projectTaskManage.Module/Migrations/20260129065318_start.cs
-/projectTaskManage.Module/Migrations/20260129065318_start.Designer.cs
-/projectTaskManage.Module/Migrations/projectTaskManageDbContextModelSnapshot.cs
+
